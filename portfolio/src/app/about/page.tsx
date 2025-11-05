@@ -23,7 +23,7 @@ const AboutPage = () => {
     { icon: <FaMobileAlt />, title: 'Mobile Dev' },
     { icon: <FaBrain />, title: 'Machine Learning' },
     { icon: <FaChartLine />, title: 'Data Analysis' },
-    { icon: <FaTasks />, title: 'Product Mgmt' },
+    { icon: <FaTasks />, title: 'Product Management' },
   ];
 
   const softwareSkills = [
